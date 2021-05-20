@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trooper Clock", "Trooper Clock\Trooper Clock.csproj", "{B35CE8FE-4810-4238-897C-A7AD78CBE82D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B35CE8FE-4810-4238-897C-A7AD78CBE82D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B35CE8FE-4810-4238-897C-A7AD78CBE82D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B35CE8FE-4810-4238-897C-A7AD78CBE82D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B35CE8FE-4810-4238-897C-A7AD78CBE82D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CB16997-59D5-4670-BDC4-7821AA371C7B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\mls32\source\repos\Trooper Clock\Trooper Clock\bin\Debug\Trooper Clock.exe.config
+C:\Users\mls32\source\repos\Trooper Clock\Trooper Clock\bin\Debug\Trooper Clock.exe
+C:\Users\mls32\source\repos\Trooper Clock\Trooper Clock\bin\Debug\Trooper Clock.pdb
+C:\Users\mls32\source\repos\Trooper Clock\Trooper Clock\obj\Debug\Trooper_Clock.TrooperTime.resources
+C:\Users\mls32\source\repos\Trooper Clock\Trooper Clock\obj\Debug\Trooper_Clock.Properties.Resources.resources
+C:\Users\mls32\source\repos\Trooper Clock\Trooper Clock\obj\Debug\Trooper Clock.csproj.GenerateResource.cache
+C:\Users\mls32\source\repos\Trooper Clock\Trooper Clock\obj\Debug\Trooper Clock.csproj.CoreCompileInputs.cache
+C:\Users\mls32\source\repos\Trooper Clock\Trooper Clock\obj\Debug\Trooper Clock.exe
+C:\Users\mls32\source\repos\Trooper Clock\Trooper Clock\obj\Debug\Trooper Clock.pdb
